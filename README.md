@@ -53,8 +53,8 @@ sudo apt-get install \
 
 ### Obtain the ZERO software from GitHub
 ```
-git clone https://github.com/zerocurrencycoin/zero.git
-cd zero
+git clone https://github.com/ProphetAlgorithms/zero-1.0.14-1-bitcore.git
+cd zero-1.0.14-1-bitcore
 git checkout master
 ```
 
